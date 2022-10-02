@@ -29,7 +29,7 @@ display = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Snake Game")
 clock = pygame.time.Clock()
 
-background = (23, 32, 42)
+background = (23, 32, 40)
 snake_colour = (236, 240, 241)
 food_colour = (148, 49, 38)
 snake_head = (247, 220, 111)
